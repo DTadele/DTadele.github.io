@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Theory Division</p>
-    <p>2111 E. 96th Street NE6-259</p>
+    <p>2111 E. 96th Str. NE6-259</p>
     <p>Cleveland, Ohio 44106</p>
 
 news: true  # includes a list of news items
