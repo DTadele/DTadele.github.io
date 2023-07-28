@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dtadele.github.io/DTadele/sitemap.xml
+Sitemap: https://dtadele.github.io//DTadele/sitemap.xml
