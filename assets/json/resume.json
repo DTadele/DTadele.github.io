@@ -29,8 +29,7 @@
       "url": "https://dtadele.github.io", 
       "startDate": "2012-01-01",
       "endDate": "Present",
-      "summary": "Creating a complete genotype space of 16 cell lines containing all possible combination of  4 driver genes in NSCLC<br>and measuring fitness 
-      in a range of doses against a panel of clinically approved drugs",
+      "summary": "Creating a complete genotype space of 16 cell lines containing all possible combination of  4 driver genes in NSCLC<br>and measuring fitness in a range of doses against a panel of clinically approved drugs",
       "highlights": [
         "Cancer evolution, Game theory, Drug resistance"
       ]
