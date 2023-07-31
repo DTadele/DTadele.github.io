@@ -11,12 +11,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD, Molecular Biology
       institution: University of Oslo, Oslo, Norway
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - My project focuses on discovery and development of a specific anti-cancer compound for the treatment of BCR-ABL positive 
+        leukemia. A novel drug discovery demands a rigorous screening design and utilization of diverse approaches for target identification. 
+        During my PhD I have established a co-culture based high-throughput drug screening where we identified a novel anti-cancer compound that 
+        is more potent than the current standard of care and in the process of further development.
+        #- Description 2.
         #- title: Description 3.
           #contents:
             #- Sub-description 1.
@@ -25,9 +28,15 @@
       institution: Oslo Metropolitian University, Oslo, Norway
       year: 2009 - 2011
       description:
-        - Description 1.
+        - Main Modules: Biochemistry and cell biology methods; Molecular cell biology; Genomic and proteomics analysis; Research and research methods; 
+        Pharmacogenetics; Statistics, quality control and quality assurance.<br>Thesis title: Mutation analysis and drug response in Her2 positive breast cancer
         - Description 2.
-
+    - title: MSc, Plant Biotechnology
+      institution: Norwegian University of Life Sciences, Aas, Norway
+      year: 2007 - 2009
+      description:
+        - Description 1.
+        
 - title: Experience
   type: time_table
   contents:
