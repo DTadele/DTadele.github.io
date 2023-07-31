@@ -6,7 +6,7 @@
     "email": "tadeled@ccf.org",
     "phone": "(216) 502-9092",
     "url": "https://dtadele.github.io/",
-    "summary": "Molecular Biologist/Geneticist by training and self-trained Data Analyst dedicated to provide groundbreaking insights into the mechanisms that drive cancer evolution and drug resistance, ultimately paving the way for more effective treatments.",
+    "summary": "Molecular Biologist/Geneticist by training and self-trained Data Analyst dedicated to provide groundbreaking insights into the mechanisms that drive cancer evolution and drug resistance utilizing game theory formalisim, ultimately paving the way for more effective treatments.",
     "location": {
       "address": "2111 E. 96th Str. NE6-259",
       "postalCode": "OH 44106",
@@ -24,14 +24,15 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Cleveland Clinic, Theory Division, Ohio, USA",
+      "name": "Oslo University Hospital, Molecular Genetics, Oslo, Norway",
+      "position": "Postdoctoral researcher",
+      "url": "https://dtadele.github.io",
+      "startDate": "2012-01-01",
+      "endDate": "Present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": [
-        "Relativity"
+        "Cancer evolution, Game theory, Drug resistance"
       ]
     }
   ],
@@ -68,7 +69,7 @@
     },
     {
       "language": "Amharic, English, Norwegian",
-      "fluency": "Fluent, x, y"
+      "fluency": "Fluent, Fluent, Professional proficiency"
     }
   ],
   "interests": [],
