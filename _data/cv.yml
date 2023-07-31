@@ -15,7 +15,7 @@
       institution: University of Oslo, Oslo, Norway
       year: 2012 - 2020
       description:
-        - My project focuses on discovery and development of a specific anti-cancer compound for the treatment of BCR-ABL positive leukemia. 
+        - BCR-ABL positive leukemia. 
         #- title: Description 3.
           #contents:
             #- Sub-description 1.
@@ -24,8 +24,9 @@
       institution: Oslo Metropolitian University, Oslo, Norway
       year: 2009 - 2011
       description:
-        - Biochemistry and cell biology methods; Molecular cell biology; Genomic and proteomics analysis; Pharmacogenetics.
-          
+        - Biochemistry and cell biology methods.
+        - Description 2.
+
 - title: Experience
   type: time_table
   contents:
