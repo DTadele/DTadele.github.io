@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Oslo University Hosptal, Medical Genetics<br>             Cleveland Clinic, Theory Division.
+subtitle: <a href='#'>Affiliations</a>. Oslo University Hosptal, Medical Genetics<br>&nbsp;Cleveland Clinic, Theory Division.
 
 profile:
   align: right
