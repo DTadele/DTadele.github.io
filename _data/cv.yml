@@ -73,15 +73,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: * Cancer Drug Resistance.
+    - title: - Cancer Drug Resistance.
       #items: 
         #- Description 1.
         #- Description 2.
-    - title: * Game Theory.
+    - title: - Game Theory.
       #items:
         #- Description 1.
         #- Description 2.
-    - title: * Adaptive Therapy.
+    - title: - Adaptive Therapy.
       #items:
         #- Description 1.
         #- Description 2.
