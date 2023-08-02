@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cell Fusion
+title: <p>Cell Fusion</p>
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
