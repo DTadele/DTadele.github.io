@@ -69,6 +69,16 @@
     - year: 2020 - 2021
       items: 
         - International mobility grant from Norwegian Research Council, Norway.
+        
+- title: Memberships of Scientific Societies 
+  type: time_table
+  contents:
+    - year: 2010 - 2020
+      items: 
+        - Norwegian cancer society, Norway. 
+    - year: 2020 - Present
+      items: 
+        - Member of the European Association for Cancer Research (EACR).
 
 - title: Academic Interests
   type: nested_list
