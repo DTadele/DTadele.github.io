@@ -451,8 +451,8 @@ In publications, the author entry for yourself is identified by string array `sc
 
 ```yaml
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Tadele]
+  first_name: [Dagim Shiferaw]
 ```
 
 If the entry matches one form of the last names and the first names, it will be underlined.
@@ -460,24 +460,16 @@ Keep meta-information about your co-authors in `_data/coauthors.yml` and Jekyll 
 The co-author data format in `_data/coauthors.yml` is as follows,
 
 ```yaml
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Tadele":
+  - firstname: ["Dagim", "Tadele", "Dagim Tadele", "DST"]
+    url: https://www.theorydi.vision/ppl-dagimtadele.html
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+#"Bach":
+  #- firstname: ["Johann Sebastian", "J. S."]
+    #url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+  #- firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    #url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 ```
 
 If the entry matches one of the combinations of the last names and the first names, it will be highlighted and linked to the url provided.
