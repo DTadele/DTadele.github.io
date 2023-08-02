@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hypercube
+title: # Hypercube
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
