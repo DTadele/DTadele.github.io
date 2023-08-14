@@ -40,7 +40,7 @@
       institution: HarvardX, EDX
       year: 2021 - 2022
       description:
-        - Data Science certificate program provided me with the necessary knowledge base and useful skills to tackle real-world data analysis challenges. The program covers concepts such as probability, inference, regression, and machine learning and helped me develop an essential skill set that includes R programming, data wrangling with dplyr, data visualization with ggplot2 and version control with git and GitHub using RStudio.
+        - Data Science certificate program provided me with the necessary knowledge base and useful skills to tackle real-world data analysis challenges. The program covers concepts such as probability, inference, regression, and machine learning, data wrangling with dplyr, data visualization with ggplot2 and version control with git and GitHub using RStudio.
         #- title: Description 3.
           #contents:
             #- Sub-description 1.
