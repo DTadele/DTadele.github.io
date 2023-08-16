@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<span class="font-weight-bold">About Me:</span> 
+<span class="font-weight-bold">About Me:</span><br>
 Welcome to my research profile! I am a passionate cancer researcher with a keen academic interest in the application of the concepts of game theory and fitness landscape in understanding cancer biology. My work revolves around understanding cancer drug resistance and developing innovative strategies to overcome it.  
 
 Academic Journey:
