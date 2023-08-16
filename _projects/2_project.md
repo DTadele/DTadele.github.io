@@ -14,5 +14,5 @@ giscus_comments: true
     </div>
 </div>
 <div class="caption">
-    Adaptive Therapy - Light at the end of a tunnel?  
+    Adaptive Therapy - Light at the end of the tunnel?  
 </div>
