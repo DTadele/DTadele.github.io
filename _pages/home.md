@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p align="justify">From there my interest in cancer drug resistance was born and I pursued my PhD study. My PhD research was focused on the identification of anti-cancer compounds that specifically targets BCR-Abl positive chronic myeloid leukemia (CML) while sparing the normal cells. In order to achieve this, I have designed and optimized a co-culture based high-throughput screening platform.</p>
 
-Currently, I am working as postdoctoral researcher affiliated with the [Rayner’s lab](https://www.ous-research.no/rayner/?k=rayner%2FGroup+members&aid=16879) at the Department of Medical Genetics, Norway and [Scott’s lab](https://www.lerner.ccf.org/translational-hematology-oncology/scott/) at Cleveland Clinic, USA. For more information about my current work visit the project section.
+<div style="text-align: justify">Currently, I am working as postdoctoral researcher affiliated with the [Rayner’s lab](https://www.ous-research.no/rayner/?k=rayner%2FGroup+members&aid=16879) at the Department of Medical Genetics, Norway and [Scott’s lab](https://www.lerner.ccf.org/translational-hematology-oncology/scott/) at Cleveland Clinic, USA. For more information about my current work visit the project section.</div>
 
 <span class="font-weight-bold">Empowering the Next Generation:</span><br>
 <p align="justify">Alongside my research, I am passionate about mentoring the next generation of cancer researchers. I have supervised several graduate students, nurtured their scientific curiosity and encouraging them to explore innovative approaches to tackle cancer drug resistance and improve cancer treatment outcomes.</p> 
