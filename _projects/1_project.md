@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span class="font-weight-bold"><p>On-going Project</p></span>
+title: <p><span class="font-weight-bold">On-going Project</span></p>
 description: Project hypothesis and Aims
 img: assets/img/EGT_1.jpg
 importance: 1
