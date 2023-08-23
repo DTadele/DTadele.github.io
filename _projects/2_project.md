@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <p>Adaptive Therapy</p>
+title: <p><span class="font-weight-bold">Adaptive Therapy</span></p>
 description: <p>Coming Soon!!</p>
 img: assets/img/3.jpg
 importance: 2
