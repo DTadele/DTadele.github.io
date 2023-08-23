@@ -14,7 +14,7 @@ To understand the mechanism of drug resistance, my project utilizes a mathematic
 
 <div class="row">
     <div class="row justify-content-sm-center">
-        <div class="col-sm-8 mt-3 mt-md-0">
+        <div class="col-sm-6 mt-2 mt-md-0">
         {% include figure.html path="assets/img/Hypercube_DS_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
