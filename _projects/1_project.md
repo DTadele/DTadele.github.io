@@ -12,7 +12,7 @@ Lung cancer is the most diagnosed cancer worldwide, with high prevalence and mor
 
 To understand the mechanism of drug resistance, my project utilizes a mathematical approach, called evolutionary game theory (EGT), together with computational models, to predict cancer evolution and promote drug sensitivity. My on-going project is focused on the central hypothesis that like some other stochastic systems, the evolutionary process in cancer is fundamentally controllable. The project aims to utilize the principles of EGT to enhance our understanding of cancer development, drug resistance and analyze the interactions between cancer cells, normal cells, and therapeutic agents within the tumor microenvironment. Through understanding of these interactions as strategic games, the project aims to uncover the strategies that cancer cells adopt in response to changing conditions and treatment pressures.
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Hypercube_DS_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
