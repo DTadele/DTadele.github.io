@@ -34,10 +34,10 @@ To understand the mechanism of drug resistance, my project utilizes a mathematic
 </div>
 
 <span class="font-weight-bold">Key objectives of the project:</span><br>
-<span class="font-weight-bold">1.	Model Development:</span> Construct mathematical models based on evolutionary game theory that capture the interactions between cancer cells, normal cells, and therapeutic agents. These models will consider factors such as cell proliferation rates and varying drug sensitivities.
+<p align="justify"><span class="font-weight-bold">1.	Model Development:</span> Construct mathematical models based on evolutionary game theory that capture the interactions between cancer cells, normal cells, and therapeutic agents. These models will consider factors such as cell proliferation rates and varying drug sensitivities.</p>
 
-<span class="font-weight-bold">2.	Drug Resistance Analysis:</span> Investigate the evolution of cancer cell populations under different treatment scenarios to understand how drug resistance emerges and spreads. Investigate the impact of different treatment strategies on the prevalence of drug-resistant cells.
+<p align="justify"><span class="font-weight-bold">2.	Drug Resistance Analysis:</span> Investigate the evolution of cancer cell populations under different treatment scenarios to understand how drug resistance emerges and spreads. Investigate the impact of different treatment strategies on the prevalence of drug-resistant cells.</p>
 
-<span class="font-weight-bold">3.	Optimal Treatment Strategies:</span> Utilize EGT to identify optimal treatment strategies that minimize the development of drug resistance. These strategies might involve combination therapies, adaptive treatment schedules, or targeting specific vulnerabilities in the evolutionary landscape.
+<p align="justify"><span class="font-weight-bold">3.	Optimal Treatment Strategies:</span> Utilize EGT to identify optimal treatment strategies that minimize the development of drug resistance. These strategies might involve combination therapies, adaptive treatment schedules, or targeting specific vulnerabilities in the evolutionary landscape.</p>
 <p align="justify">
 By combining the principles of EGT with cancer research, this project aspires to shed light on the dynamics of cancer evolution and drug resistance. <span class="font-weight-bold">The insights gained from this project will pave the way for more targeted and adaptive treatment approaches, ultimately improving outcomes for cancer patients.</span></p>
