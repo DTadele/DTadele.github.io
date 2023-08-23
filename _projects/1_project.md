@@ -1,8 +1,8 @@
 ---
 layout: page
-title: <p>Hypercube</p>
-description: a project with a background image
-img: assets/img/12.jpg
+title: <p>On-going Project</p>
+description: Project hypothesis and Aims
+img: assets/img/EGT_1.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
