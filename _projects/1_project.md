@@ -19,7 +19,7 @@ To understand the mechanism of drug resistance, my project utilizes a mathematic
 <div class="caption">
    A complete genotype space of 16 cell lines containing all combinations of 4 driver genes in NSCLC.
 </div>
-To this end, first we will establish 16 mutant lung cancer cell lines containing all combinations of 4 clinically relevant driver genes in lung cancer represented as a hypercube in Figure 1. Then we will measure fitness in a range of doses (seascapes) against a panel of approved standard chemotherapies for lung cancer. Then, to enable mapping from in-vitro EGT analyses to a fitness payoff matrix, the mathematical formulation designed by Kaznatcheev et al. will be implemented (Figure 2).
+To this end, first we will establish 16 mutant lung cancer cell lines containing all combinations of 4 clinically relevant driver genes in lung cancer represented as a hypercube in <span class="font-weight-bold">Figure 1</span>. Then we will measure fitness in a range of doses (seascapes) against a panel of approved standard chemotherapies for lung cancer. Then, to enable mapping from in-vitro EGT analyses to a fitness payoff matrix, the mathematical formulation designed by Kaznatcheev et al. will be implemented <span class="font-weight-bold">(Figure 2)</span>.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Artem_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
