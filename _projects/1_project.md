@@ -8,9 +8,9 @@ category: work
 related_publications: 
 ---
 <p align="justify">
-Lung cancer is the most diagnosed cancer worldwide, with high prevalence and mortality rate.  Although numerous mechanisms are associated with drug resistance in lung cancer, we are a long way from fully understanding how to overcome drug resistance. Further complicating our understanding of drug resistance, cancer is a complex and dynamic disease characterized by the continuous evolution of cell populations within a tumor. This evolution is driven by interactions between different cell types and their responses to therapeutic interventions. 
-
-To understand the mechanism of drug resistance, my project utilizes a mathematical approach, called evolutionary game theory (EGT), together with computational models, to predict cancer evolution and promote drug sensitivity. My on-going project is focused on the central hypothesis that like some other stochastic systems, the evolutionary process in cancer is fundamentally controllable. The project aims to utilize the principles of EGT to enhance our understanding of cancer development, drug resistance and analyze the interactions between cancer cells, normal cells, and therapeutic agents within the tumor microenvironment. Through understanding of these interactions as strategic games, the project aims to uncover the strategies that cancer cells adopt in response to changing conditions and treatment pressures.
+Lung cancer is the most diagnosed cancer worldwide, with high prevalence and mortality rate.  Although numerous mechanisms are associated with drug resistance in lung cancer, we are a long way from fully understanding how to overcome drug resistance. Further complicating our understanding of drug resistance, cancer is a complex and dynamic disease characterized by the continuous evolution of cell populations within a tumor. This evolution is driven by interactions between different cell types and their responses to therapeutic interventions.</p> 
+<p align="justify">
+To understand the mechanism of drug resistance, my project utilizes a mathematical approach, called evolutionary game theory (EGT), together with computational models, to predict cancer evolution and promote drug sensitivity. My on-going project is focused on the central hypothesis that like some other stochastic systems, the evolutionary process in cancer is fundamentally controllable. The project aims to utilize the principles of EGT to enhance our understanding of cancer development, drug resistance and analyze the interactions between cancer cells, normal cells, and therapeutic agents within the tumor microenvironment. Through understanding of these interactions as strategic games, the project aims to uncover the strategies that cancer cells adopt in response to changing conditions and treatment pressures.</p> 
 
 <div class="row">
     <div class="row justify-content-sm-center">
@@ -23,7 +23,7 @@ To understand the mechanism of drug resistance, my project utilizes a mathematic
 <div class="caption">
    <span class="font-weight-bold">Figure 1. A complete genotype space of 16 cell lines containing all combinations of 4 driver genes in NSCLC.</span>
 </div>
-To this end, first we will establish 16 mutant lung cancer cell lines containing all combinations of 4 clinically relevant driver genes in lung cancer represented as a hypercube in <span class="font-weight-bold">Figure 1</span>. Then we will measure fitness in a range of doses (seascapes) against a panel of approved standard chemotherapies for lung cancer. Then, to enable mapping from in-vitro EGT analyses to a fitness payoff matrix, the mathematical formulation designed by Kaznatcheev et al. will be implemented <span class="font-weight-bold">(Figure 2)</span>.
+<p align="justify">To this end, first we will establish 16 mutant lung cancer cell lines containing all combinations of 4 clinically relevant driver genes in lung cancer represented as a hypercube in <span class="font-weight-bold">Figure 1</span>. Then we will measure fitness in a range of doses (seascapes) against a panel of approved standard chemotherapies for lung cancer. Then, to enable mapping from in-vitro EGT analyses to a fitness payoff matrix, the mathematical formulation designed by Kaznatcheev et al. will be implemented <span class="font-weight-bold">(Figure 2)</span>.</p> 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Artem_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -39,5 +39,5 @@ To this end, first we will establish 16 mutant lung cancer cell lines containing
 <span class="font-weight-bold">2.	Drug Resistance Analysis:</span> Investigate the evolution of cancer cell populations under different treatment scenarios to understand how drug resistance emerges and spreads. Investigate the impact of different treatment strategies on the prevalence of drug-resistant cells.
 
 <span class="font-weight-bold">3.	Optimal Treatment Strategies:</span> Utilize EGT to identify optimal treatment strategies that minimize the development of drug resistance. These strategies might involve combination therapies, adaptive treatment schedules, or targeting specific vulnerabilities in the evolutionary landscape.
-
+<p align="justify">
 By combining the principles of EGT with cancer research, this project aspires to shed light on the dynamics of cancer evolution and drug resistance. <span class="font-weight-bold">The insights gained from this project will pave the way for more targeted and adaptive treatment approaches, ultimately improving outcomes for cancer patients.</span></p>
