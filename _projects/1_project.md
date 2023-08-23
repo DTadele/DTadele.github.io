@@ -1,81 +1,39 @@
 ---
 layout: page
-title: <p>On-going Project</p>
+title: <span class="font-weight-bold"><p>On-going Project</p></span>
 description: Project hypothesis and Aims
 img: assets/img/EGT_1.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Lung cancer is the most diagnosed cancer worldwide, with high prevalence and mortality rate.  Although numerous mechanisms are associated with drug resistance in lung cancer, we are a long way from fully understanding how to overcome drug resistance. Further complicating our understanding of drug resistance, cancer is a complex and dynamic disease characterized by the continuous evolution of cell populations within a tumor. This evolution is driven by interactions between different cell types and their responses to therapeutic interventions. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+To understand the mechanism of drug resistance, my project utilizes a mathematical approach, called evolutionary game theory (EGT), together with computational models, to predict cancer evolution and promote drug sensitivity. My on-going project is focused on the central hypothesis that like some other stochastic systems, the evolutionary process in cancer is fundamentally controllable. The project aims to utilize the principles of EGT to enhance our understanding of cancer development, drug resistance and analyze the interactions between cancer cells, normal cells, and therapeutic agents within the tumor microenvironment. Through understanding of these interactions as strategic games, the project aims to uncover the strategies that cancer cells adopt in response to changing conditions and treatment pressures.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Hypercube_DS_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+   A complete genotype space of 16 cell lines containing all combinations of 4 driver genes in NSCLC.
 </div>
+To this end, first we will establish 16 mutant lung cancer cell lines containing all combinations of 4 clinically relevant driver genes in lung cancer represented as a hypercube in Figure 1. Then we will measure fitness in a range of doses (seascapes) against a panel of approved standard chemotherapies for lung cancer. Then, to enable mapping from in-vitro EGT analyses to a fitness payoff matrix, the mathematical formulation designed by Kaznatcheev et al. will be implemented (Figure 2).
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Artem_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+   Mapping of games measured in vitro into a game space.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+<span class="font-weight-bold">Key objectives of the project:</span><br>
+<span class="font-weight-bold">1.	Model Development:</span> Construct mathematical models based on evolutionary game theory that capture the interactions between cancer cells, normal cells, and therapeutic agents. These models will consider factors such as cell proliferation rates and varying drug sensitivities.
 
+<span class="font-weight-bold">2.	Drug Resistance Analysis:</span> Investigate the evolution of cancer cell populations under different treatment scenarios to understand how drug resistance emerges and spreads. Investigate the impact of different treatment strategies on the prevalence of drug-resistant cells.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<span class="font-weight-bold">3.	Optimal Treatment Strategies:</span> Utilize EGT to identify optimal treatment strategies that minimize the development of drug resistance. These strategies might involve combination therapies, adaptive treatment schedules, or targeting specific vulnerabilities in the evolutionary landscape.
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+By combining the principles of EGT with cancer research, this project aspires to shed light on the dynamics of cancer evolution and drug resistance. <span class="font-weight-bold">The insights gained from this project will pave the way for more targeted and adaptive treatment approaches, ultimately improving outcomes for cancer patients.</span>
