@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <p>Cell Plasticity and Cell Fusion</p>
+title: <p><span class="font-weight-bold">Cell Plasticity and Cell Fusion</span></p>
 description: <p>Coming Soon!!</p>
 img: assets/img/7.jpg
 importance: 3
