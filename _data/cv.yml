@@ -40,9 +40,7 @@
       institution: HarvardX, EDX
       year: 2021 - 2022
       description:
-        - Data Science certificate program provided me with the necessary knowledge base and useful skills to tackle real-world data analysis 
-        challenges. The program covers concepts such as probability, inference, regression, and machine learning, data wrangling with dplyr, 
-        data visualization with ggplot2 and version control with git and GitHub using RStudio.
+        - Data Science certificate program provided me with the necessary knowledge base and useful skills to tackle real-world data analysis challenges. The program covers concepts such as probability, inference, regression, and machine learning, data wrangling with dplyr, data visualization with ggplot2 and version control with git and GitHub using RStudio.
     - title: FELASA C, Laboratory Animal Handling
       institution: UiO
       year: 2019
