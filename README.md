@@ -461,7 +461,7 @@ The co-author data format in `_data/coauthors.yml` is as follows,
 
 ```yaml
 "Tadele":
-  - firstname: ["Dagim", "Tadele", "Dagim Tadele", "DST"]
+  - firstname: ["Dagim", "Tadele", "Dagim Tadele", "DST", "DS Tadele"]
     url: https://www.theorydi.vision/ppl-dagimtadele.html
 
 #"Bach":
