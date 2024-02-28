@@ -13,7 +13,7 @@ Without wasting time, I hit the gym with the predetermined speed of ~ 7.2mph. Un
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Half_marathon_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% iinclude figure.html path="assets/img/Half_marathon_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     
 </div>
@@ -24,7 +24,7 @@ Without wasting time, I hit the gym with the predetermined speed of ~ 7.2mph. Un
 Currently, preparing for my second half marathon, I learned from my mistake. So, I started by laying out a good training plan. In addition, I have made a reasonable time frame to complete the race adjusting for age, experience, and lifestyle (considering time available for training). Thus, my new goal has shifted from 1:50:00 (ambitious but hard to achieve) to under 2:00:00 (exciting enough, reasonable, and achievable). Investigating optimum training guidelines for a half marathon, I realized that running a half marathon is more than what meets the eye. It requires consideration of various aspects of training such as core strength training, leg and thigh strength, endurance training, and high-intensity interval training. On top of this, one needs to keep proper nutrition, good rest/recovery, and avoid stress. It is also recommended to train with friends or colleagues to get motivation!!! Generally, long-distance running is a complex sport that needs to be tackled systematically. Putting all these things into consideration and increasing my training gradually, I made a 6.6ml run over the weekend at 00:58:45. This indicates that if the training persists for the next 10 weeks the goal could be achieved. 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Half_marathon_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/img/Half_marathon_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     
 </div>
