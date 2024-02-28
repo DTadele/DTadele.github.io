@@ -1,6 +1,6 @@
 ---
 layout: post
-#title: Research and Half Marathon: Two sides of the same Coin?
+title: Research and Half Marathon: Two sides of the same Coin?
 date: 2024-02-27 00:15:00
 #description: this is what included images could look like
 #tags: formatting images
