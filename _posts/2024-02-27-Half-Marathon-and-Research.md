@@ -3,9 +3,9 @@ layout: post
 title: Research and Half Marathon: Two sides of the same Coin?
 date: 2024-02-27 00:15:00
 description: this is what included images could look like
-tags: formatting images
-categories: sample-posts
-thumbnail: assets/img/9.jpg
+#tags: formatting images
+#categories: sample-posts
+#thumbnail: assets/img/9.jpg
 ---
 
 Long-distance running is not fun when proper training is not implemented. Last year, during the fall half marathon race at Strongsville, Ohio, I made a simple and naïve assumption that I would run a half marathon in less than 1:50:00. To achieve this, I made use of the simple equation v=s/t (s= distance and t= time) to set up my speed. In other words, if r(t) is a differentiable vector representing the position vector with respect to time t, then my speed is the derivative of the position vector v(t)=r’(t). Easy-peasy!!!
