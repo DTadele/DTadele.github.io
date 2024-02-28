@@ -2,7 +2,8 @@
 layout: post
 title:  Research and Half-Marathon
 date: 2024-02-28 12:05:00
-description: Research methaphor   
+description: Research methaphor
+related_posts: false
 #tags: formatting videos
 #categories: sample-posts
 ---
