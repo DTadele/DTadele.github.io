@@ -7,7 +7,7 @@ related_posts: false
 #tags: formatting videos
 #categories: sample-posts
 ---
-Research and Half Marathon: Two Sides of The Same Coin?
+<p align="center"> <span class="font-weight-bold"> Research and Half Marathon: Two Sides of The Same Coin? </span> </p>
 
 
 <p align="justify"> Long-distance running is not fun when proper training is not implemented. Last year, during the 
@@ -32,6 +32,14 @@ one needs to keep proper nutrition, good rest/recovery, and avoid stress. It is 
 colleagues to get motivation!!! Generally, long-distance running is a complex sport that needs to be tackled systematically. 
 Putting all these things into consideration and increasing my training gradually, I made a 6.6ml run over the weekend at 00:58:45.
 This indicates that if the training persists for the next 10 weeks the goal could be achieved. </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Half_marathon_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Result after new training schedule - promising strategy to achieve the goal?  
+</div>
 <p align="justify">My experience in training for a half marathon is a good metaphor for research in general. Research is a high-level intellectual endeavor that requires keeping different aspects in optimum equilibrium. It requires great inspiration/curiosity, hard work, multidisciplinary collaboration, open-mindedness, and maintaining good mental health. In addition, it is important to create new connections and networks. My research stay at Cleveland Clinic (Supported by the Norwegian Research Council, Norway) has taught me how to connect the dots. Furthermore, it has helped me evolve to the next level and discover my strengths. As my stay is coming to an end, to cross-pollinate/disseminate what I have learned it is time to start a blog post where I will chat with members of Scott’s lab (Theory Division) and on different interesting topics and share on my website. Finally, the next important step I will focus on is to formalize our future collaboration and enable continuous exchange of young scientists between our institutions. </p>
 
 
