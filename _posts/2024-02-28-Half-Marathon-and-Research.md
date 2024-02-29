@@ -18,14 +18,14 @@ the derivative of the position vector v(t)=r’(t). Easy-peasy!!! </p>
 <p align="justify"> Without wasting time, I hit the gym with the predetermined speed of ~ 7.2mph. Unfortunately, within a week of starting the training, I hurt my knee and was forced to quit further training. Disappointed I asked, “What went wrong?”, “How could I make such a naïve assumption of finishing a half marathon in 1:50:00 without prior experience?”. First, my prejudices came from the lack of understanding of what running a half marathon encompasses, thus underestimating the preparation I need to do. The injury lasted for a while leading to less/improper preparation. I participated in the race, though not in very good condition, and completed the race at 2:20:22. </p>
 <div class="row">
     <div class="row justify-content-sm-center">
-        <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="col-sm-6 mt-4 mt-md-0">
         {% include figure.html path="assets/img/Half_marathon_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
 
 <div class="caption">
-   <span class="font-weight-bold"> First half marathon completed at 2:20:00. Well deserved medal!!! </span>
+   <span class="font-weight-bold"> First half marathon completed at 2:20:22. Well deserved medal!!! </span>
 </div> 
 <p align="justify">Currently, preparing for my second half marathon, I learned from my mistake. So, I started by laying out a good training plan. In addition, I have made a reasonable time frame to complete the race adjusting for age, experience, and lifestyle (considering time available for training). Thus, my new goal has shifted from 1:50:00 (ambitious but hard to achieve) to under 2:00:00 (exciting enough, reasonable, and achievable). Investigating optimum training guidelines for a half marathon, I realized that running a half marathon is more than what meets the eye. It requires consideration of various aspects of training such as core strength training, leg and thigh strength, endurance training, and high-intensity interval training. On top of this, 
 one needs to keep proper nutrition, good rest/recovery, and avoid stress. It is also recommended to train with friends or 
