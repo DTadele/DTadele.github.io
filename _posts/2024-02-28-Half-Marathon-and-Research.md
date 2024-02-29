@@ -19,7 +19,7 @@ the derivative of the position vector v(t)=r’(t). Easy-peasy!!! </p>
 <p align= "justify">
 <div class="row"> 
         <div class="col-sm mt-2 mt-md-0">
-        {% include figure.html path="assets/img/Half_marathon_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Half_marathon_1.jpg" title="example image" class="img-fluid rounded z-depth-1" align= "center" %}
         </div>    
 </div>
 
