@@ -34,7 +34,7 @@ colleagues to get motivation!!! Generally, long-distance running is a complex sp
 Putting all these things into consideration and increasing my training gradually, I made a 6.6ml run over the weekend at 00:58:45.
 This indicates that if the training persists for the next 10 weeks the goal could be achieved. </p>
 <div class="row">
-    <div class="row align-content-sm-center">
+    <div class="row align-sm-center">
         <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Half_marathon_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
