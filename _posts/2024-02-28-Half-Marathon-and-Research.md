@@ -18,12 +18,12 @@ the derivative of the position vector v(t)=r’(t). Easy-peasy!!! </p>
 <p align="justify"> Without wasting time, I hit the gym with the predetermined speed of ~ 7.2mph. Unfortunately, within a week of starting the training, I hurt my knee and was forced to quit further training. Disappointed I asked, “What went wrong?”, “How could I make such a naïve assumption of finishing a half marathon in 1:50:00 without prior experience?”. First, my prejudices came from the lack of understanding of what running a half marathon encompasses, thus underestimating the preparation I need to do. The injury lasted for a while leading to less/improper preparation. I participated in the race, though not in very good condition, and completed the race at 2:20:22. </p>
  
 <div class="row">
-    <div class="row align-content-sm-center">
-        <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="row justify-content-sm-center">
+        <div class="col-sm-6 mt-2 mt-md-0">
         {% include figure.html path="assets/img/Half_marathon_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-</div> 
+</div>
 
 <div class="caption">
    <span class="font-weight-bold"> First half marathon completed at 2:20:22. Well deserved medal!!! </span>
@@ -34,8 +34,8 @@ colleagues to get motivation!!! Generally, long-distance running is a complex sp
 Putting all these things into consideration and increasing my training gradually, I made a 6.6ml run over the weekend at 00:58:45.
 This indicates that if the training persists for the next 10 weeks the goal could be achieved. </p>
 <div class="row">
-    <div class="row align-sm-center">
-        <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="row justify-content-sm-center">
+        <div class="col-sm-6 mt-2 mt-md-0">
         {% include figure.html path="assets/img/Half_marathon_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
