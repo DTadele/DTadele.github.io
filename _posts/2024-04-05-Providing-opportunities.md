@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Providing opportunities, being open-minded and encouraging young talents!!!
-date: 2024-04-205 12:05:00
+date: 2024-04-05 12:05:00
 description: Encouraging young talents
 related_posts: false
 #tags: formatting videos
