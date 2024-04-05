@@ -19,6 +19,17 @@ antibiotic resistance and fitness cost in the lab of Dr. Richard Lenski. Further
 LTEE can be found on (<a href="https://en.wikipedia.org/wiki/E._coli_long-term_evolution_experiment">
 en.wikipedia.org/wiki/E._coli_long-term_evolution_experiment)</a> or on his personal website. </p>
 
+<div class="row">
+    <div class="row justify-content-sm-center">
+        <div class="col-sm-6 mt-2 mt-md-0">
+        {% include figure.html path="assets/img/kyle.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+<div class="caption">
+    Discussion with Dr. Kyke Card.  
+</div>
+
 <p align="justify"> Recently, I sat down with Dr. Card to discuss what motivated him to pursue a career in science and 
 what we can do to empower young talents. At the center of his amazing journey lies an engraved 
 personal interest in science as a child coupled with an excellent and encouraging education 
