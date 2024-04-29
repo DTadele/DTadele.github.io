@@ -14,13 +14,13 @@ related_posts: false
 
  <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.liquid loading="eager" path="assets/img/Elon_1.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.liquid loading="eager" path="assets/img/Elon_1.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.liquid loading="eager" path="assets/img/Elon_2.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.liquid loading="eager" path="assets/img/Elon_2.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.liquid loading="eager" path="assets/img/Elon_3.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.liquid loading="eager" path="assets/img/Elon_3.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   </div>
   <div class="caption">
@@ -36,7 +36,7 @@ related_posts: false
    {% include figure.liquid loading="eager" path="assets/img/Abel_1.jpg" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.liquid loading="eager" path="assets/img/Abel_2.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.liquid loading="eager" path="assets/img/Abel_2.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
    </div>
    <div class="caption">
@@ -57,13 +57,13 @@ However, when in-person school started, we experienced a mix of excitement and s
 
  <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.liquid loading="eager" path="assets/img/abel_school_1.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.liquid loading="eager" path="assets/img/abel_school_1.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.liquid loading="eager" path="assets/img/abel_school_2.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.liquid loading="eager" path="assets/img/abel_school_2.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.liquid loading="eager" path="assets/img/abel_school_3.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.liquid loading="eager" path="assets/img/abel_school_3.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   </div>
 </div>
@@ -76,7 +76,7 @@ However, when in-person school started, we experienced a mix of excitement and s
 <div class="row">
     <div class="row justify-content-sm-center">
         <div class="col-sm-6 mt-2 mt-md-0">
-        {% include figure.html path="assets/img/poster_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/poster_1.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
@@ -88,7 +88,7 @@ However, when in-person school started, we experienced a mix of excitement and s
 
  <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.liquid loading="eager" path="assets/img/7th_grade_1.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.liquid loading="eager" path="assets/img/7th_grade_1.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
    {% include figure.liquid loading="eager" path="assets/img/7th_grade_2.jpg" class="img-fluid rounded z-depth-1" %}
