@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Off-target effect of coming to Cleveland, My personal experience!
+title: Off-target effect of coming to Cleveland, My personal experience!
 date: 2024-04-29 01:49:00
 description: Educating next-generation young talents
 related_posts: false
