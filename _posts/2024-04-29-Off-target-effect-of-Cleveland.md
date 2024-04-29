@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Off-target effect of coming to Cleveland, My personal experience!
-date: 2024-04-29 12:59:00
+title:  Off-target effect of coming to Cleveland, My personal experience!
+date: 2024-04-29 12:49:00
 description: Educating the next-generation young talents
 related_posts: false
 #tags: formatting videos
@@ -11,6 +11,10 @@ related_posts: false
 <p align="justify"> After taking a three-year break from Facebook (FB), I recently returned to the platform, this time to set up parental controls and manage how my kids, engage with social media. What greeted me was not the old FB digital landscape I remembered. The digital space of FB has undergone a significant transformation, marked by many uninteresting videos and Reels, alongside a new user interface and features. I was expecting to dive back into the familiar FB, but it's clear that even digital spaces are not immune to evolution—they also change!!! </p>
 
 <p align="justify"> Surprisingly, a few days ago I received a nostalgic notification, a reminder of a photo I posted eight years ago. It captured a moment with my daughter comparing different cancer cells' morphology and density/growth rate. This is a memorable time from my days during my PhD when my daughter often accompanied me to the lab during the weekends. And we used to have an interesting QA session that was quite long!!! I believe kids have a lot of curiosity to know new things and have unlimited potential to learn! </p>
+
+ <div class="col-sm-6 mt-2 mt-md-0">
+        {% include figure.html path="assets/img/kyle.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
