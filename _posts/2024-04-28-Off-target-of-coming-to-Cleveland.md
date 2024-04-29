@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Off-target effect of coming to Cleveland: My personal experience!
-date: 2024-04-28 11:59:00
+date: 2024-04-29 12:59:00
 description: Educating the next-generation young talents
 related_posts: false
 #tags: formatting videos
@@ -14,13 +14,13 @@ related_posts: false
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Elon_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Elon_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Elon_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Elon_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Elon_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Elon_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -33,10 +33,10 @@ related_posts: false
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Abel_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Abel_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Abel_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Abel_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>    
 </div>
 <div class="caption">
@@ -60,10 +60,10 @@ However, when in-person school started, we experienced a mix of excitement and s
         {% include figure.liquid path="assets/img/abel_school_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/abel_school_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/abel_school_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/abel_school_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/abel_school_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -87,10 +87,10 @@ However, when in-person school started, we experienced a mix of excitement and s
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/7th_grade_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html loading="eager" path="assets/img/7th_grade_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/7th_grade_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html loading="eager" path="assets/img/7th_grade_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
