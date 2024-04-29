@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Off-target effect of coming to Cleveland: My personal experience!
