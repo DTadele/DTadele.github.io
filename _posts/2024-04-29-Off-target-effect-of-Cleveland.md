@@ -65,10 +65,9 @@ However, when in-person school started, we experienced a mix of excitement and s
   <div class="col-sm mt-3 mt-md-0">
    {% include figure.html loading="eager" path="assets/img/abel_school_3.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
-  </div>
-</div>
+   </div>
 <div class="caption">
-    My daughter shadowing and helping me during my PhD.  
+    4th-grade science: parameter estimate and prediction of the number of seeds in a pumpkin as a function of weight and circumference.  
 </div>
 
 <p align="justify"> Similarly, the curriculum in middle school is well-rounded and impressively comprehensive. The advanced science classes focus on how to utilize advanced biological techniques to solve major environmental problems, emphasizing the interconnectedness of ecosystems and how changing one aspect affects the whole system. Moreover, in middle school students get a chance to perform a research project, prepare a poster, and present their findings. </p> 
