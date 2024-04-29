@@ -1,82 +1,108 @@
 ---
 layout: post
-title:  Providing opportunities, being open-minded and encouraging young talents!!!
-date: 2024-04-05 12:05:00
-description: Encouraging young talents
+title:  Off-target effect of coming to Cleveland: My personal experience!
+date: 2024-04-28 12:05:00
+description: Educating the next-generation young talents
 related_posts: false
 #tags: formatting videos
 #categories: sample-posts
 ---
-<p align="center"> <span class="font-weight-bold"> Providing opportunities, being open-minded and encouraging young talents!!! </span> </p>
 
-<p align="justify"> A while ago, the thought of creating my personal website and sharing my research experiences 
-through blogging did not cross my mind. I got inspiration and motivation from a visionary and 
-knowledgeable colleague; <a href="https://www.kylejcard.com/about">Dr. Kyle Card</a>. Dr. Card is an 
-HHMI Postdoctoral Fellow in the lab of Dr. Jacob Scott. Dr. Card is a Microbiologist by training and 
-did his undergraduate and PhD studies at Michigan State University, USA. During his PhD, using E. Coli 
-long-term evolution experiment (LTEE) he studied the role of genetic background in the evolution of 
-antibiotic resistance and fitness cost in the lab of Dr. Richard Lenski. Further information about 
-LTEE can be found on (<a href="https://en.wikipedia.org/wiki/E._coli_long-term_evolution_experiment">
-en.wikipedia.org/wiki/E._coli_long-term_evolution_experiment)</a> or on his personal website. </p>
+<p align="justify"> After taking a three-year break from Facebook (FB), I recently returned to the platform, this time to set up parental controls and manage how my kids, engage with social media. What greeted me was not the old FB digital landscape I remembered. The digital space of FB has undergone a significant transformation, marked by many uninteresting videos and Reels, alongside a new user interface and features. I was expecting to dive back into the familiar FB, but it's clear that even digital spaces are not immune to evolution—they also change!!!
+
+Surprisingly, a few days ago I received a nostalgic notification, a reminder of a photo I posted eight years ago. It captured a moment with my daughter comparing different cancer cells' morphology and density/growth rate. This is a memorable time from my days during my PhD when my daughter often accompanied me to the lab during the weekends. And we used to have an interesting QA session that was quite long!!! I believe kids have a lot of curiosity to know new things and have unlimited potential to learn! </p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Elon_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Elon_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Elon_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    My daughter shadowing and helping me during my PhD.  
+</div>
+
+<p align="center"> <span class="font-weight-bold"> Like father, like son! </span> </p>
+
+<p align="justify"> Similarly, my son also began joining me in the lab on weekends. He is a quick learner and pays attention to details. On his first visit to the Radium Hospital, he was amazed by the enormity of the 4oC storage rooms. “What a big fridge”!!! Then his curiosity grew when he observed automated liquid handlers. He was fascinated by how such a compact machine could perform tasks so precisely and rapidly. He received training, then he enjoyed watching/helping me with high-throughput (HTS) drug screening experiments! Explaining the processes in terms he could grasp and keeping him motivated turned out to be a rewarding experience for both of us. It was quality dad-son-time, memorable moments that are definitely worth sharing in a blog post!!! </p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Abel_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Abel_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>    
+</div>
+<div class="caption">
+    My son shadowing and helping me perform HTS during my PhD.  
+</div>
+
+
+<p align="center"> <span class="font-weight-bold"> Off-target effect of coming to Cleveland </span> </p>
+
+<p align="justify"> Moving to Cleveland has been a transforming experience for me in so many ways, which I plan to explore in future blog posts. Today, I want to focus on how my children have adapted to the US school system. Generally, our experience is that the education system here is dynamic and places a significant emphasis on early childhood education, particularly if you reside in a favorable neighborhood. In other words, the quality of your child’s education can heavily depend on your postcode. Unfortunately, when we first moved the area of Cleveland, we lived in was shockingly poor. To complicate matters further, the lockdown and lack of social interaction made our initial adjustment challenging. In addition, engaging in virtual homeschooling with children without prior knowledge of English added an extra layer of difficulty. </p>
+
+<p align="justify"> However, when in-person school started, we experienced a mix of excitement and shock. While thrilled about our children interacting with their peers, the poor location of the school became a major concern. Since school funding is often derived from local taxes, institutions in disadvantaged neighborhoods struggle with fewer resources, which impacts the quality of education and the provision of extra support for students who need it. Despite these significant challenges, the dedication of the teachers is remarkable. Their commitment was evident in the progress our children made, mastering English fluently in a short span. This rapid development offered a light to our challenging start. </p>
+
+<p align="center"> <span class="font-weight-bold"> Moving to a new resident </span> </p>
+
+<p align="justify">  After a year, we relocated to a neighborhood recommended to be child-friendly and pleasant. The change we experienced was almost indescribable for someone who isn’t familiar with the US system. In this new setting, my children felt more at ease, which significantly boosted their educational performance. In terms of elementary education, the curriculum, especially in science for 4th graders was astonishing and mind-blowing. It makes me question:  How is such an advanced education system possible for 4th graders? Are we putting pressure on the kids? Aren’t children supposed to enjoy more playtime at this age? </p>
+
+<p align="justify"> For instance, my son would come home with so many questions about algorithms. “Dad, how do we know if the algorithm is always, right? What if it makes a mistake? What if it is better than us?” When I asked him where he learned about such complex topics, expecting an answer like YouTube, he surprised me by saying, "No, we're learning about it at school." What's remarkable is not just the advanced topics they cover but how they're taught. Their classes include practical exercises and demonstrations that support and motivate learning. Beyond science, they also explore a variety of subjects in their social studies class, such as peer pressure, nutrition, finance, and history, providing them with a comprehensive worldview. This holistic approach to education provides a great interest and opportunity for children to become engaged in Science from an early age. </p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/abel_school_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/abel_school_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/abel_school_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    My daughter shadowing and helping me during my PhD.  
+</div>
+
+<p align="justify"> Similarly, the curriculum in middle school is well-rounded and impressively comprehensive. The advanced science classes focus on how to utilize advanced biological techniques to solve major environmental problems, emphasizing the interconnectedness of ecosystems and how changing one aspect affects the whole system. Moreover, in middle school students get a chance to perform a research project, prepare a poster, and present their findings. </p> 
 
 <div class="row">
     <div class="row justify-content-sm-center">
         <div class="col-sm-6 mt-2 mt-md-0">
-        {% include figure.html path="assets/img/kyle.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/poster_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
 <div class="caption">
-    Discussion with Dr. Kyke Card.  
+    Poster prepared by my daughter for Science project. The project includes research methods, data analysis and visualization!  
 </div>
 
-<p align="justify"> Recently, I sat down with Dr. Card to discuss what motivated him to pursue a career in science and 
-what we can do to empower young talents. At the center of his amazing journey lies an engraved 
-personal interest in science as a child coupled with an excellent and encouraging education 
-system. In addition, this childhood curiosity was guided in the right direction by strong family 
-support.  Dr. Card describes that he used to read science-focused books, play science computer 
-games and watch educational TV shows. “The Magic School Bus” is one of his favorite examples
-that has a perfect balance of entertainment and educational aspects. Similarly, as a child, he 
-was interested in learning more about nature/earth, how stars form, nuclear fusion and he took 
-regular visits to a library. In this era of social media where Gen Z’s are in constant search of 
-instant gratification, educational institutes and government authorities have to devise a system 
-that instills attributes that cultivate curiosity for science and knowledge. As early school years 
-are the main platform where the foundation is established and interest in science happens, 
-supporting those attributes at an early stage of a child’s educational development is crucial for 
-two reasons. First, it creates a burning interest in science at an early stage. Second, by making 
-it interesting, it demystifies the assumption that science is hard. </p>
+<p align="justify"> Middle school education goes beyond the traditional academic system (at least different from what I know) by preparing students for a wide range of future careers through a dedicated Career Opportunity class. This class introduces them to modern career paths (a list of endless possibilities) that didn't exist a generation ago, such as influencer, TikToker, YouTuber, content creator, gamer, and digital artist. Additionally, recognizing the challenges posed by rapid technological advancements, middle schools offer a "Total Wellness" class to help students manage their overall well-being. The science curriculum in middle school includes advanced topics like artificial intelligence and utilizes state-of-the-art image deconvolution (creating, manipulating, and analysis) techniques. The depth and teaching methods of these classes are astonishing. </p>
 
-<p align="justify"> Then we discussed our experiences of moving to a new lab. Both Dr. Card and myself joined the lab 
-of Dr. Scott’s approximately at the same time. The lab is multidisciplinary with a broad range of 
-expertise in Mathematics, Physics, Molecular Biology and Medicine. At first, as Molecular biologists, 
-we felt uncomfortable with the new terminologies from mathematics and Physics applied to answer 
-biological questions. However, through open discussion, supporting each other and good communication, 
-we learned how to work as a team across disciplines! We were comfortable being uncomfortable; learning
-something we hadn’t done before. We evolved!!! Dr. Card highlights that doing science in a 
-multidisciplinary team is what motivates him to work hard to improve the health and well-being of 
-others. In addition, to have a successful research-oriented career path, broad scientific experience 
-from different labs during PhD and Postdoc is significantly important. With this goal in mind, senior 
-scientists should cultivate an environment that enhances and nurtures the professional and personal 
-development of young scientists through collaboration, collaboration, collaboration!!! To this end, 
-we envisioned that we would continue to create international collaboration where we would be committed 
-to creating and nurturing young scientists. </p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th_grade_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/7th_grade_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    7th grade Science topics: Wave, Energy, Biome project ....
+</div>
 
-<p align="justify">  Next, we talked about the importance of Diversity, Equity and Inclusion (DEI). DEI is an organizational
-framework that promotes fair treatment and participation of people, especially those who have been 
-historically underrepresented or discriminated against. This is important because Dr. Card’s scientific
-journey is not without its challenges. He is affected by a rare neurological disability called Moebius 
-syndrome which poses a challenge. However, he proudly shares that he sees those challenges enriched his
-academic life in many ways and served him as an extra superpower, but not an obstacle. Dr.  Card 
-eloquently sums it up: “Through my lived experiences I appreciate that, despite our differences, 
-our curiosity about the natural world is what binds us together; that each of us has a unique story 
-that should be respected and cherished; and that we all should have a voice within science. The way 
-I honor these ideals is through giving my time to advocacy, mentorship, listening, and learning”. 
-In other words, he believes in providing opportunities, being open-minded and encouraging young 
-talents!!! </p>
+<p align="center"> <span class="font-weight-bold"> what is next for kids educated in such a system </span> </p>
 
-<p align="justify">  As Dr. Card continues his academic journey, he does so with a sense of purpose and high determination. 
-I think it is a privilege to have a colleague/collaborator who is talented, and compassionate and 
-whose presence serves as a source of inspiration to all who work with him. </p>
+<p align="justify">  These experiences lead me to wonder what the future for children educated in such a dynamic system could be. How does this advanced education system shape their future paths? Often, students who excel in the education system in the US are placed on distinct academic tracks that offer more personalized and flexible educational paths. Therefore, children who perform well will not be left behind the scene on their own. Furthermore, various high schools in the U.S. partner with research labs and companies to provide summer study/research programs, enhancing practical learning opportunities at an early age. For the past three years, I've been fortunate enough to participate in such a program organized at Scott's lab, which not only benefits my research but also provides me an opportunity to learn how the system works.
+
+Finally, reflecting on our move to Cleveland, the most significant unintended consequence has been the experience and access to an extraordinary international education system for my children. Plain and simple, these experiences are quite CRAZY!!!. </p>
 
 
 
