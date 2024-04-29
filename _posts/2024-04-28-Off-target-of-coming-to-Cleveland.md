@@ -8,9 +8,9 @@ related_posts: false
 #categories: sample-posts
 ---
 
-<p align="justify"> After taking a three-year break from Facebook (FB), I recently returned to the platform, this time to set up parental controls and manage how my kids, engage with social media. What greeted me was not the old FB digital landscape I remembered. The digital space of FB has undergone a significant transformation, marked by many uninteresting videos and Reels, alongside a new user interface and features. I was expecting to dive back into the familiar FB, but it's clear that even digital spaces are not immune to evolution—they also change!!!
+<p align="justify"> After taking a three-year break from Facebook (FB), I recently returned to the platform, this time to set up parental controls and manage how my kids, engage with social media. What greeted me was not the old FB digital landscape I remembered. The digital space of FB has undergone a significant transformation, marked by many uninteresting videos and Reels, alongside a new user interface and features. I was expecting to dive back into the familiar FB, but it's clear that even digital spaces are not immune to evolution—they also change!!! </p>
 
-Surprisingly, a few days ago I received a nostalgic notification, a reminder of a photo I posted eight years ago. It captured a moment with my daughter comparing different cancer cells' morphology and density/growth rate. This is a memorable time from my days during my PhD when my daughter often accompanied me to the lab during the weekends. And we used to have an interesting QA session that was quite long!!! I believe kids have a lot of curiosity to know new things and have unlimited potential to learn! </p>
+<p align="justify"> Surprisingly, a few days ago I received a nostalgic notification, a reminder of a photo I posted eight years ago. It captured a moment with my daughter comparing different cancer cells' morphology and density/growth rate. This is a memorable time from my days during my PhD when my daughter often accompanied me to the lab during the weekends. And we used to have an interesting QA session that was quite long!!! I believe kids have a lot of curiosity to know new things and have unlimited potential to learn! </p>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,7 +42,6 @@ Surprisingly, a few days ago I received a nostalgic notification, a reminder of 
 <div class="caption">
     My son shadowing and helping me perform HTS during my PhD.  
 </div>
-
 
 <p align="center"> <span class="font-weight-bold"> Off-target effect of coming to Cleveland </span> </p>
 
