@@ -19,7 +19,7 @@ related_posts: false
    {% include figure.html loading="eager" path="assets/img/1a_training.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.html loading="eager" path="assets/img/1b_training.JPG" class="img-fluid rounded z-depth-1" %}
+   {% include figure.html loading="eager" path="assets/img/1b_hardwork.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   </div>
   <div class="caption">
@@ -61,5 +61,3 @@ related_posts: false
 </div>
 
 <p align="justify">  Finally, I asked what drives her to pursue such a challenging career path, confidently, Mina replied “research and science offers me an opportunity and freedom to do what I want to do passionately and innovate new technologies that is impacts the society”. Therefore, if we need to build a research system that is robust, problem solving and innovative the way forward is to provide an opportunity for young talents at an early stage to enhance and promote academic excellence and academic freedom! Mina's journey is a testament to the importance of fostering hands-on experience, mentorship, and curiosity at an early academic stage is a pilar to pursue a successful research career and keep young talents in research. Doing so not only shapes the scientific community in the positive direction, but also adds flavor and spices it up! Looking back on my time in Cleveland, the experience is mind-blowing! </p>
-
-
