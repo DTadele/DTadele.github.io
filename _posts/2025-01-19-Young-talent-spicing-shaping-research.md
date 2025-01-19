@@ -19,7 +19,7 @@ related_posts: false
    {% include figure.html loading="eager" path="assets/img/1a_training.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.html loading="eager" path="assets/img/1b_hardwork.JPG" class="img-fluid rounded z-depth-1" %}
+   {% include figure.html loading="eager" path="assets/img/1b_hardwork.jpg" class="img-fluid rounded z-depth-1" %}
    </div>
   </div>
   <div class="caption">
@@ -37,7 +37,7 @@ related_posts: false
    {% include figure.html loading="eager" path="assets/img/2_hardwork.jpg" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.html loading="eager" path="assets/img/3_smiling.JPG" class="img-fluid rounded z-depth-1" %}
+   {% include figure.html loading="eager" path="assets/img/3_smiling.jpg" class="img-fluid rounded z-depth-1" %}
    </div>
    </div>
    <div class="caption">
@@ -52,7 +52,7 @@ related_posts: false
 <div class="row">
     <div class="row justify-content-sm-center">
         <div class="col-sm-6 mt-2 mt-md-0">
-        {% include figure.html path="assets/img/4_promise.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/4_promise.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
