@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Young Talents: Spicing and Shaping the Future of Research
-date: 2024-04-29 01:49:00
+date: 2025-01-19 16:49:00
 description: Educating next-generation young talents
 related_posts: false
 #tags: formatting videos
