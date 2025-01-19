@@ -16,14 +16,14 @@ related_posts: false
 
  <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.html loading="eager" path="assets/img/1a_training.JPG" class="img-fluid rounded z-depth-1" %}
+   {% include figure.html loading="eager" path="assets/img/011925/1a_training.JPG" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.html loading="eager" path="assets/img/1b_hardwork.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.html loading="eager" path="assets/img/011925/1b_hardwork.jpg" class="img-fluid rounded z-depth-1" %}
    </div>
   </div>
   <div class="caption">
-   Mina receiving a training on the automated liquid handler and burning as many plates as possible.
+   Mina receiving training on the automated liquid handler and burning as many plates as possible.
    </div>
 
 <p align="center"> <span class="font-weight-bold"> Intro to computational research </span> </p>
@@ -34,25 +34,25 @@ related_posts: false
 
  <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.html loading="eager" path="assets/img/2_hardwork.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.html loading="eager" path="assets/img/011925/2_hardwork.jpg" class="img-fluid rounded z-depth-1" %}
    </div>
   <div class="col-sm mt-3 mt-md-0">
-   {% include figure.html loading="eager" path="assets/img/3_smiling.jpg" class="img-fluid rounded z-depth-1" %}
+   {% include figure.html loading="eager" path="assets/img/011925/3_smiling.jpg" class="img-fluid rounded z-depth-1" %}
    </div>
    </div>
    <div class="caption">
-    Great motivation, easy to work with and always smiling making the work environment fun and exciting place!
+    Great motivation, easy to work with and always smiling making the work environment a fun and exciting place!
     </div>
 
 
-<p align="justify"> After completing her undergraduate studies, Mina joined Scott's lab at the Cleveland Clinic as a lab technician, initially with the intention of attending medical school. A year into the role, she secured an NIH diversity grant to support her research and academic progress. During my time working alongside her, it became clear that Mina possesses a rare combination of dedication, attention to detail, and a natural talent for experimental design and data analysis. After three years as a technician, Mina transitioned into a PhD program in Molecular Medicine, as part of Scott's lab. The Cleveland Clinic’s Molecular Medicine PhD program is uniquely designed to allow candidates to transition to medical school. Thus, PhD students work with clinical mentors and gain invaluable shadowing experience, providing a comprehensive clinical exposure. Choosing such a demanding and competitive career path is a significant commitment, requiring mental strength, passion for science, and a solid support system from family, friends, and colleagues. With this regard, Mina is grateful for all the support, encouragement and opportunities she has received along the way.  </p>
+<p align="justify"> After completing her undergraduate studies, Mina joined Scott's lab at the Cleveland Clinic as a lab technician, initially with the intention of attending medical school. A year into the role, she secured an NIH diversity grant to support her research and academic progress. During my time working alongside her, it became clear that Mina possesses a rare combination of dedication, attention to detail, and a natural talent for experimental design and data analysis. After three years as a technician, Mina transitioned into a PhD program in Molecular Medicine, as part of Scott's lab. The Cleveland Clinic’s Molecular Medicine PhD program is uniquely designed to allow candidates to transition to medical school. Thus, PhD students work with clinical mentors and gain invaluable shadowing experience, providing comprehensive clinical exposure. Choosing such a demanding and competitive career path is a significant commitment, requiring mental strength, passion for science, and a solid support system from family, friends, and colleagues. With this regard, Mina is grateful for all the support, encouragement, and opportunities she has received along the way.  </p>
 
 <p align="center"> <span class="font-weight-bold"> The Future of Research </span> </p>
 
 <div class="row">
     <div class="row justify-content-sm-center">
         <div class="col-sm-6 mt-2 mt-md-0">
-        {% include figure.html path="assets/img/4_promise.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/011925/4_promise.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
@@ -60,4 +60,4 @@ related_posts: false
     A pinky promise to visit my team in Oslo before finishing the PhD!  
 </div>
 
-<p align="justify">  Finally, I asked what drives her to pursue such a challenging career path, confidently, Mina replied “research and science offers me an opportunity and freedom to do what I want to do passionately and innovate new technologies that is impacts the society”. Therefore, if we need to build a research system that is robust, problem solving and innovative the way forward is to provide an opportunity for young talents at an early stage to enhance and promote academic excellence and academic freedom! Mina's journey is a testament to the importance of fostering hands-on experience, mentorship, and curiosity at an early academic stage is a pilar to pursue a successful research career and keep young talents in research. Doing so not only shapes the scientific community in the positive direction, but also adds flavor and spices it up! Looking back on my time in Cleveland, the experience is mind-blowing! </p>
+<p align="justify">  Finally, I asked what drives her to pursue such a challenging career path, confidently, Mina replied, “Research and science offer me an opportunity and freedom to do what I want to do passionately and innovate new technologies that impact the society”. Therefore, if we need to build a research system that is robust, problem-solving, and innovative the way forward is to provide an opportunity for young talents at an early stage to enhance and promote academic excellence and academic freedom! Mina's journey is a testament to the importance of fostering hands-on experience, mentorship, and curiosity at an early academic stage is a pilar to pursue a successful research career and keep young talents in research. Doing so not only shapes the scientific community in a positive direction but also adds flavor and spices it up! Looking back on my time in Cleveland, the experience is mind-blowing! </p>
