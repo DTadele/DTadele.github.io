@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Young Talents: Spicing and Shaping the Future of Research
+title: Young Talents, Spicing and Shaping the Future of Research
 date: 2025-01-19 04:49:00
 description: Educating next-generation young talents
 related_posts: false
